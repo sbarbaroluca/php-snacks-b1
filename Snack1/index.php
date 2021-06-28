@@ -40,5 +40,4 @@ Olimpia Milano - Cantù | 55-60 -->
           echo "<h1>" . $squadraDiCasa . " - " . $squadraOspite . " | " . $puntiCasa . " - " . $puntiGuest . "<h1/>";
         };
     echo "</ul>";
-    
 ?>
